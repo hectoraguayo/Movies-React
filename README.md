@@ -1,4 +1,4 @@
-# Movies 🎬
+# Movies - React🎬
 Description:
 Movie Explorer is a simple web application built with React and Vite that allows you to explore popular movies using The Movie Database (TMDb) API. The application presents a list of movies along with their basic details, such as title, description, and poster.
 
